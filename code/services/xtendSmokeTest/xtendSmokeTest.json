@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,xtend",
+    "logging_enabled": "false",
+    "name": "xtendSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "xtendSmokeTest.js"
+}
